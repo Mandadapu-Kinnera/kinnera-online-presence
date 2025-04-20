@@ -41,3 +41,46 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+
+Kinnera Online Presence
+
+Welcome to my personal portfolio website built using modern web technologies! This project showcases my skills, projects, achievements, and online presence in an elegant and responsive layout.
+
+Tech Stack
+
+- **Framework:** Next.js
+- **Language:** JavaScript
+- **Styling:** Tailwind CSS / Custom CSS
+- **Hosting Ready:** Vercel / Netlify / GitHub Pages
+
+---
+
+## 📦 Installation & Setup Instructions
+
+### ✅ Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v18 or later recommended)
+- npm (comes with Node.js) or [Yarn](https://yarnpkg.com/)
+
+---
+
+Steps to Run Locally
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Mandadapu-Kinnera/kinnera-online-presence.git
+2.	Navigate to the Project Directory
+cd kinnera-online-presence
+3.	Install Dependencies If you're using npm:
+npm install
+Or if you're using yarn:
+yarn install
+4.	Start the Development Server Using npm:
+npm run dev
+Or using yarn:
+yarn dev
+5.	View in Browser Open your browser and go to:
+http://localhost:3000
+
